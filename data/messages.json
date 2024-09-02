@@ -1,0 +1,88 @@
+{
+  "notifications": [
+    {
+      "avatar": {
+        "src": "avatar-mark-webber.webp"
+      },
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "link": {
+        "text": "My first tournament today!",
+        "url": "#"
+      },
+      "time": "1m ago",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-angela-gray.webp"
+      },
+      "name": "Angela Gray",
+      "action": "followed you",
+      "time": "5m ago",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-jacob-thompson.webp"
+      },
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "link": {
+        "text": "Chess Club",
+        "url": "#"
+      },
+      "time": "1 day ago",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-rizky-hasanuddin.webp"
+      },
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "time": "5 days ago",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-kimberly-smith.webp"
+      },
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "image": {
+        "src": "image-chess.webp",
+        "alt": "Chess"
+      },
+      "time": "1 week ago",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-nathan-peterson.webp"
+      },
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "link": {
+        "text": "5 end-game strategies to increase your win rate",
+        "url": "#"
+      },
+      "time": "2 weeks ago",
+      "isRead": "false"
+    },
+    {
+      "avatar": {
+        "src": "avatar-anna-kim.webp"
+      },
+      "name": "Anna Kim",
+      "action": "left the group",
+      "link": {
+        "text": "Chess Club",
+        "url": "#"
+      },
+      "time": "2 weeks ago",
+      "isRead": "false"
+    }
+  ]
+}
