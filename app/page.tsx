@@ -1,11 +1,11 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 import { cn } from "@/utils/utils";
-import data from "../data/notifications.json";
-import Link from "next/link";
+import data from "@/data/notifications.json";
 
 type Notification = {
   id: number;
