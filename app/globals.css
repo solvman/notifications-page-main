@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-site-clapm-14px-16px text-site-dark-grey-blue font-medium;
+  }
+}

@@ -2,94 +2,115 @@
   "notifications": [
     {
       "id": 1,
-      "avatar": {
-        "src": "/images/avatar-mark-webber.webp"
+      "user": {
+        "name": "Mark Webber",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-mark-webber.webp"
+        }
       },
-      "name": "Mark Webber",
       "action": "reacted to your recent post",
       "link": {
         "text": "My first tournament today!",
         "url": "#"
       },
       "time": "1m ago",
-      "isRead": false
+      "isUnread": true
     },
     {
       "id": 2,
-      "avatar": {
-        "src": "/images/avatar-angela-gray.webp"
+      "user": {
+        "name": "Angela Gray",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-angela-gray.webp"
+        }
       },
-      "name": "Angela Gray",
       "action": "followed you",
       "time": "5m ago",
-      "isRead": false
+      "isUnread": true
     },
     {
       "id": 3,
-      "avatar": {
-        "src": "/images/avatar-jacob-thompson.webp"
+      "user": {
+        "name": "Jacob Thompson",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-jacob-thompson.webp"
+        }
       },
-      "name": "Jacob Thompson",
       "action": "has joined your group",
       "link": {
         "text": "Chess Club",
         "url": "#"
       },
       "time": "1 day ago",
-      "isRead": false
+      "isUnread": true
     },
     {
       "id": 4,
-      "avatar": {
-        "src": "/images/avatar-rizky-hasanuddin.webp"
+      "user": {
+        "name": "Rizky Hasanuddin",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-rizky-hasanuddin.webp"
+        }
       },
-      "name": "Rizky Hasanuddin",
       "action": "sent you a private message",
       "time": "5 days ago",
       "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
-      "isRead": false
+      "isUnread": false
     },
     {
       "id": 5,
-      "avatar": {
-        "src": "/images/avatar-kimberly-smith.webp"
+      "user": {
+        "name": "Kimberly Smith",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-kimberly-smith.webp"
+        }
       },
-      "name": "Kimberly Smith",
       "action": "commented on your picture",
       "image": {
         "src": "/images/image-chess.webp",
         "alt": "Chess"
       },
       "time": "1 week ago",
-      "isRead": false
+      "isUnread": true
     },
     {
       "id": 6,
-      "avatar": {
-        "src": "/images/avatar-nathan-peterson.webp"
+      "user": {
+        "name": "Nathan Peterson",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-nathan-peterson.webp"
+        }
       },
-      "name": "Nathan Peterson",
       "action": "reacted to your recent post",
       "link": {
         "text": "5 end-game strategies to increase your win rate",
         "url": "#"
       },
       "time": "2 weeks ago",
-      "isRead": false
+      "isUnread": true
     },
     {
       "id": 7,
-      "avatar": {
-        "src": "/images/avatar-anna-kim.webp"
+      "user": {
+        "name": "Anna Kim",
+        "href": "#",
+        "avatar": {
+          "src": "/images/avatar-anna-kim.webp"
+        }
       },
-      "name": "Anna Kim",
       "action": "left the group",
       "link": {
         "text": "Chess Club",
         "url": "#"
       },
       "time": "2 weeks ago",
-      "isRead": false
+      "isUnread": true
     }
   ]
 }
