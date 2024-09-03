@@ -1,8 +1,9 @@
 {
   "notifications": [
     {
+      "id": 1,
       "avatar": {
-        "src": "avatar-mark-webber.webp"
+        "src": "/images/avatar-mark-webber.webp"
       },
       "name": "Mark Webber",
       "action": "reacted to your recent post",
@@ -11,20 +12,22 @@
         "url": "#"
       },
       "time": "1m ago",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 2,
       "avatar": {
-        "src": "avatar-angela-gray.webp"
+        "src": "/images/avatar-angela-gray.webp"
       },
       "name": "Angela Gray",
       "action": "followed you",
       "time": "5m ago",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 3,
       "avatar": {
-        "src": "avatar-jacob-thompson.webp"
+        "src": "/images/avatar-jacob-thompson.webp"
       },
       "name": "Jacob Thompson",
       "action": "has joined your group",
@@ -33,34 +36,37 @@
         "url": "#"
       },
       "time": "1 day ago",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 4,
       "avatar": {
-        "src": "avatar-rizky-hasanuddin.webp"
+        "src": "/images/avatar-rizky-hasanuddin.webp"
       },
       "name": "Rizky Hasanuddin",
       "action": "sent you a private message",
       "time": "5 days ago",
       "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 5,
       "avatar": {
-        "src": "avatar-kimberly-smith.webp"
+        "src": "/images/avatar-kimberly-smith.webp"
       },
       "name": "Kimberly Smith",
       "action": "commented on your picture",
       "image": {
-        "src": "image-chess.webp",
+        "src": "/images/image-chess.webp",
         "alt": "Chess"
       },
       "time": "1 week ago",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 6,
       "avatar": {
-        "src": "avatar-nathan-peterson.webp"
+        "src": "/images/avatar-nathan-peterson.webp"
       },
       "name": "Nathan Peterson",
       "action": "reacted to your recent post",
@@ -69,11 +75,12 @@
         "url": "#"
       },
       "time": "2 weeks ago",
-      "isRead": "false"
+      "isRead": false
     },
     {
+      "id": 7,
       "avatar": {
-        "src": "avatar-anna-kim.webp"
+        "src": "/images/avatar-anna-kim.webp"
       },
       "name": "Anna Kim",
       "action": "left the group",
@@ -82,7 +89,7 @@
         "url": "#"
       },
       "time": "2 weeks ago",
-      "isRead": "false"
+      "isRead": false
     }
   ]
 }
